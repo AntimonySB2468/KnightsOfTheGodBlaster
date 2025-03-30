@@ -36,7 +36,7 @@
 - Required packages: `random`, `copy`, `google.colab` (for Colab screen clearing)  
 
 ### How to Run
-1. Clone the repository or download `ICS3U_Final_Project(V2).ipynb`.  
+1. Clone the repository or download `game.ipynb`.  
 2. Open the notebook in **Jupyter** or **Google Colab**.  
 3. Run all cells. The game starts automatically!  
 
