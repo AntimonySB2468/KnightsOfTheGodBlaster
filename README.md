@@ -87,5 +87,4 @@
 - **Author**: Aadhya Anand  
 - **Inspired By**: Dungeons & Dragons 5th Edition (Wizards of the Coast).  
 - **ASCII Art**: Generated via [patorjk.com](https://patorjk.com/software/taag/).  
-- **License**: MIT License (see `LICENSE`).  
 - **Note**: D&D is a trademark of Wizards of the Coast. This project is a fan creation. 
